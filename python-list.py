@@ -4,7 +4,7 @@ numberCount2 = [3, 4, 6, 8, 9]
 #print(numberCount[-3:])
 print (numberCount + numberCount2)
 
-letter = ['a', 'b', 'c', 'd']
+letter = ['a', 'b', 'c', 'd', 5]
 print(len(letter))
 
 i = 1
